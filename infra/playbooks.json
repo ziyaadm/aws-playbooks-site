@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Ce 500 Errors On Preauth Endpoint 270623 230741",
+    "url": "playbooks/CE-500 Errors on Preauth Endpoint-270623-230741.pdf"
+  },
+  {
+    "title": "Ce A Merchant Is Failing To Acknowledge Its Webhooks And Hitting Our Retry Limit 270623 230856",
+    "url": "playbooks/CE-A merchant is failing to acknowledge its webhooks and hitting our retry limit-270623-230856.pdf"
+  },
+  {
+    "title": "Ce All Auths Are Being Declined For On (Card Authorization Error) 270623 230859",
+    "url": "playbooks/CE-All auths are being declined for on (Card Authorization Error)-270623-230859.pdf"
+  },
+  {
+    "title": "Ce Apple Pay Domain Was Not Abled To Verified For 270623 230822",
+    "url": "playbooks/CE-Apple pay domain was not abled to verified for-270623-230822.pdf"
+  },
+  {
+    "title": "Ce Authorize.Net Credentials Invalid On @Env Production 270623 230845",
+    "url": "playbooks/CE-Authorize.net credentials Invalid on @env_production-270623-230845.pdf"
+  },
+  {
+    "title": "Ce Braintree 401 Credentials Forbidden 270623 230841",
+    "url": "playbooks/CE-Braintree 401 Credentials Forbidden-270623-230841.pdf"
+  },
+  {
+    "title": "Ce Critical User Notification Is Being Sent To An Invalid Email In Production 270623 230833",
+    "url": "playbooks/CE-Critical User Notification Is Being Sent To An Invalid Email In production-270623-230833.pdf"
+  },
+  {
+    "title": "Ce Critical User Notification Is Failing To Be Delivered In Production 270623 230829",
+    "url": "playbooks/CE-Critical User Notification Is Failing To Be Delivered in production-270623-230829.pdf"
+  },
+  {
+    "title": "Ce Funding Instrument Disabled 270623 230837",
+    "url": "playbooks/CE-Funding Instrument Disabled-270623-230837.pdf"
+  },
+  {
+    "title": "Ce Malformed Chargeback Case From Vantiv 270623 230803",
+    "url": "playbooks/CE-Malformed chargeback case from Vantiv-270623-230803.pdf"
+  },
+  {
+    "title": "Ce Metabase Alert  Active Merchants With No Users With Chargeback Notifications Enabled 270623 230903",
+    "url": "playbooks/CE-Metabase alert_ Active merchants with no users with chargeback notifications enabled-270623-230903.pdf"
+  },
+  {
+    "title": "Ce Metabase Alert  Merchant Churn Alert Has Results 270623 230848",
+    "url": "playbooks/CE-Metabase alert_ Merchant Churn Alert has results-270623-230848.pdf"
+  },
+  {
+    "title": "Ce Metabase Alert  Merchants At Risk Of Losing Support Has Results (Draft) 270623 230852",
+    "url": "playbooks/CE-Metabase alert_ Merchants at Risk of Losing Support has results (DRAFT)-270623-230852.pdf"
+  },
+  {
+    "title": "Ce Missing Endpoint Alerts (Draft) 270623 230906",
+    "url": "playbooks/CE-Missing Endpoint Alerts (DRAFT)-270623-230906.pdf"
+  },
+  {
+    "title": "Ce More Than 10 Adjustments Created In 24 Hours 270623 230751",
+    "url": "playbooks/CE-More than 10 Adjustments Created in 24 hours-270623-230751.pdf"
+  },
+  {
+    "title": "Ce Your Domain Will Expire Soon 270623 230817",
+    "url": "playbooks/CE-Your domain will expire soon-270623-230817.pdf"
+  }
+]

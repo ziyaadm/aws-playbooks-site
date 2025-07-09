@@ -1,66 +1,211 @@
 [
   {
-    "title": "Ce 500 Errors On Preauth Endpoint 270623 230741",
-    "url": "playbooks/CE-500 Errors on Preauth Endpoint-270623-230741.pdf"
+    "title": "500 Errors On Preauth Endpoint",
+    "url": "playbooks/CE-500 Errors on Preauth Endpoint-270623-230741.pdf",
+    "category": "Authentication",
+    "severity": "High",
+    "tags": [
+      "HTTP 500",
+      "ERROR",
+      "AUTH",
+      "ENDPOINT"
+    ],
+    "is_draft": false,
+    "filename": "CE-500 Errors on Preauth Endpoint-270623-230741.pdf",
+    "description": "Troubleshooting guide for 500 errors on preauth endpoint issues and resolution steps."
   },
   {
-    "title": "Ce A Merchant Is Failing To Acknowledge Its Webhooks And Hitting Our Retry Limit 270623 230856",
-    "url": "playbooks/CE-A merchant is failing to acknowledge its webhooks and hitting our retry limit-270623-230856.pdf"
+    "title": "Critical User Notification Is Being Sent To An Invalid Email In Production",
+    "url": "playbooks/CE-Critical User Notification Is Being Sent To An Invalid Email In production-270623-230833.pdf",
+    "category": "Notifications",
+    "severity": "High",
+    "tags": [
+      "EMAIL",
+      "NOTIFICATION"
+    ],
+    "is_draft": false,
+    "filename": "CE-Critical User Notification Is Being Sent To An Invalid Email In production-270623-230833.pdf",
+    "description": "Troubleshooting guide for critical user notification is being sent to an invalid email in production issues and resolution steps."
   },
   {
-    "title": "Ce All Auths Are Being Declined For On (Card Authorization Error) 270623 230859",
-    "url": "playbooks/CE-All auths are being declined for on (Card Authorization Error)-270623-230859.pdf"
+    "title": "Critical User Notification Is Failing To Be Delivered In Production",
+    "url": "playbooks/CE-Critical User Notification Is Failing To Be Delivered in production-270623-230829.pdf",
+    "category": "Notifications",
+    "severity": "High",
+    "tags": [
+      "NOTIFICATION"
+    ],
+    "is_draft": false,
+    "filename": "CE-Critical User Notification Is Failing To Be Delivered in production-270623-230829.pdf",
+    "description": "Troubleshooting guide for critical user notification is failing to be delivered in production issues and resolution steps."
   },
   {
-    "title": "Ce Apple Pay Domain Was Not Abled To Verified For 270623 230822",
-    "url": "playbooks/CE-Apple pay domain was not abled to verified for-270623-230822.pdf"
+    "title": "A Merchant Is Failing To Acknowledge Its Webhooks And Hitting Our Retry Limit",
+    "url": "playbooks/CE-A merchant is failing to acknowledge its webhooks and hitting our retry limit-270623-230856.pdf",
+    "category": "Payment Processing",
+    "severity": "Medium",
+    "tags": [
+      "WEBHOOK",
+      "MERCHANT"
+    ],
+    "is_draft": false,
+    "filename": "CE-A merchant is failing to acknowledge its webhooks and hitting our retry limit-270623-230856.pdf",
+    "description": "Troubleshooting guide for a merchant is failing to acknowledge its webhooks and hitting our retry limit issues and resolution steps."
   },
   {
-    "title": "Ce Authorize.Net Credentials Invalid On @Env Production 270623 230845",
-    "url": "playbooks/CE-Authorize.net credentials Invalid on @env_production-270623-230845.pdf"
+    "title": "All Auths Are Being Declined For On (card Authorization Error)",
+    "url": "playbooks/CE-All auths are being declined for on (Card Authorization Error)-270623-230859.pdf",
+    "category": "Authentication",
+    "severity": "Medium",
+    "tags": [
+      "ERROR",
+      "AUTH"
+    ],
+    "is_draft": false,
+    "filename": "CE-All auths are being declined for on (Card Authorization Error)-270623-230859.pdf",
+    "description": "Troubleshooting guide for all auths are being declined for on (card authorization error) issues and resolution steps."
   },
   {
-    "title": "Ce Braintree 401 Credentials Forbidden 270623 230841",
-    "url": "playbooks/CE-Braintree 401 Credentials Forbidden-270623-230841.pdf"
+    "title": "Apple Pay Domain Was Not Abled To Verified For",
+    "url": "playbooks/CE-Apple pay domain was not abled to verified for-270623-230822.pdf",
+    "category": "Domain & SSL",
+    "severity": "Medium",
+    "tags": [
+      "Apple Pay",
+      "DOMAIN"
+    ],
+    "is_draft": false,
+    "filename": "CE-Apple pay domain was not abled to verified for-270623-230822.pdf",
+    "description": "Troubleshooting guide for apple pay domain was not abled to verified for issues and resolution steps."
   },
   {
-    "title": "Ce Critical User Notification Is Being Sent To An Invalid Email In Production 270623 230833",
-    "url": "playbooks/CE-Critical User Notification Is Being Sent To An Invalid Email In production-270623-230833.pdf"
+    "title": "Authorize.net Credentials Invalid On @env Production",
+    "url": "playbooks/CE-Authorize.net credentials Invalid on @env_production-270623-230845.pdf",
+    "category": "Authentication",
+    "severity": "Medium",
+    "tags": [
+      "Authorize.Net",
+      "CREDENTIAL",
+      "AUTH"
+    ],
+    "is_draft": false,
+    "filename": "CE-Authorize.net credentials Invalid on @env_production-270623-230845.pdf",
+    "description": "Troubleshooting guide for authorize.net credentials invalid on @env production issues and resolution steps."
   },
   {
-    "title": "Ce Critical User Notification Is Failing To Be Delivered In Production 270623 230829",
-    "url": "playbooks/CE-Critical User Notification Is Failing To Be Delivered in production-270623-230829.pdf"
+    "title": "Braintree 401 Credentials Forbidden",
+    "url": "playbooks/CE-Braintree 401 Credentials Forbidden-270623-230841.pdf",
+    "category": "Authentication",
+    "severity": "Medium",
+    "tags": [
+      "CREDENTIAL",
+      "Braintree",
+      "HTTP 401"
+    ],
+    "is_draft": false,
+    "filename": "CE-Braintree 401 Credentials Forbidden-270623-230841.pdf",
+    "description": "Troubleshooting guide for braintree 401 credentials forbidden issues and resolution steps."
   },
   {
-    "title": "Ce Funding Instrument Disabled 270623 230837",
-    "url": "playbooks/CE-Funding Instrument Disabled-270623-230837.pdf"
+    "title": "Funding Instrument Disabled",
+    "url": "playbooks/CE-Funding Instrument Disabled-270623-230837.pdf",
+    "category": "Payment Processing",
+    "severity": "Medium",
+    "tags": [],
+    "is_draft": false,
+    "filename": "CE-Funding Instrument Disabled-270623-230837.pdf",
+    "description": "Troubleshooting guide for funding instrument disabled issues and resolution steps."
   },
   {
-    "title": "Ce Malformed Chargeback Case From Vantiv 270623 230803",
-    "url": "playbooks/CE-Malformed chargeback case from Vantiv-270623-230803.pdf"
+    "title": "Malformed Chargeback Case From Vantiv",
+    "url": "playbooks/CE-Malformed chargeback case from Vantiv-270623-230803.pdf",
+    "category": "Payment Processing",
+    "severity": "Medium",
+    "tags": [
+      "CHARGEBACK",
+      "Vantiv"
+    ],
+    "is_draft": false,
+    "filename": "CE-Malformed chargeback case from Vantiv-270623-230803.pdf",
+    "description": "Troubleshooting guide for malformed chargeback case from vantiv issues and resolution steps."
   },
   {
-    "title": "Ce Metabase Alert  Active Merchants With No Users With Chargeback Notifications Enabled 270623 230903",
-    "url": "playbooks/CE-Metabase alert_ Active merchants with no users with chargeback notifications enabled-270623-230903.pdf"
+    "title": "Metabase Alert Active Merchants With No Users With Chargeback Notifications Enabled",
+    "url": "playbooks/CE-Metabase alert_ Active merchants with no users with chargeback notifications enabled-270623-230903.pdf",
+    "category": "Payment Processing",
+    "severity": "Medium",
+    "tags": [
+      "ALERT",
+      "MERCHANT",
+      "CHARGEBACK",
+      "NOTIFICATION",
+      "Metabase"
+    ],
+    "is_draft": false,
+    "filename": "CE-Metabase alert_ Active merchants with no users with chargeback notifications enabled-270623-230903.pdf",
+    "description": "Troubleshooting guide for metabase alert active merchants with no users with chargeback notifications enabled issues and resolution steps."
   },
   {
-    "title": "Ce Metabase Alert  Merchant Churn Alert Has Results 270623 230848",
-    "url": "playbooks/CE-Metabase alert_ Merchant Churn Alert has results-270623-230848.pdf"
+    "title": "Metabase Alert Merchant Churn Alert Has Results",
+    "url": "playbooks/CE-Metabase alert_ Merchant Churn Alert has results-270623-230848.pdf",
+    "category": "Payment Processing",
+    "severity": "Medium",
+    "tags": [
+      "Metabase",
+      "ALERT",
+      "MERCHANT"
+    ],
+    "is_draft": false,
+    "filename": "CE-Metabase alert_ Merchant Churn Alert has results-270623-230848.pdf",
+    "description": "Troubleshooting guide for metabase alert merchant churn alert has results issues and resolution steps."
   },
   {
-    "title": "Ce Metabase Alert  Merchants At Risk Of Losing Support Has Results (Draft) 270623 230852",
-    "url": "playbooks/CE-Metabase alert_ Merchants at Risk of Losing Support has results (DRAFT)-270623-230852.pdf"
+    "title": "Metabase Alert Merchants At Risk Of Losing Support Has Results",
+    "url": "playbooks/CE-Metabase alert_ Merchants at Risk of Losing Support has results (DRAFT)-270623-230852.pdf",
+    "category": "Payment Processing",
+    "severity": "Medium",
+    "tags": [
+      "Metabase",
+      "ALERT",
+      "MERCHANT"
+    ],
+    "is_draft": true,
+    "filename": "CE-Metabase alert_ Merchants at Risk of Losing Support has results (DRAFT)-270623-230852.pdf",
+    "description": "Troubleshooting guide for metabase alert merchants at risk of losing support has results issues and resolution steps."
   },
   {
-    "title": "Ce Missing Endpoint Alerts (Draft) 270623 230906",
-    "url": "playbooks/CE-Missing Endpoint Alerts (DRAFT)-270623-230906.pdf"
+    "title": "Missing Endpoint Alerts",
+    "url": "playbooks/CE-Missing Endpoint Alerts (DRAFT)-270623-230906.pdf",
+    "category": "API Issues",
+    "severity": "Medium",
+    "tags": [
+      "ALERT",
+      "ENDPOINT"
+    ],
+    "is_draft": true,
+    "filename": "CE-Missing Endpoint Alerts (DRAFT)-270623-230906.pdf",
+    "description": "Troubleshooting guide for missing endpoint alerts issues and resolution steps."
   },
   {
-    "title": "Ce More Than 10 Adjustments Created In 24 Hours 270623 230751",
-    "url": "playbooks/CE-More than 10 Adjustments Created in 24 hours-270623-230751.pdf"
+    "title": "More Than 10 Adjustments Created In 24 Hours",
+    "url": "playbooks/CE-More than 10 Adjustments Created in 24 hours-270623-230751.pdf",
+    "category": "General",
+    "severity": "Medium",
+    "tags": [],
+    "is_draft": false,
+    "filename": "CE-More than 10 Adjustments Created in 24 hours-270623-230751.pdf",
+    "description": "Troubleshooting guide for more than 10 adjustments created in 24 hours issues and resolution steps."
   },
   {
-    "title": "Ce Your Domain Will Expire Soon 270623 230817",
-    "url": "playbooks/CE-Your domain will expire soon-270623-230817.pdf"
+    "title": "Your Domain Will Expire Soon",
+    "url": "playbooks/CE-Your domain will expire soon-270623-230817.pdf",
+    "category": "Domain & SSL",
+    "severity": "Medium",
+    "tags": [
+      "DOMAIN"
+    ],
+    "is_draft": false,
+    "filename": "CE-Your domain will expire soon-270623-230817.pdf",
+    "description": "Troubleshooting guide for your domain will expire soon issues and resolution steps."
   }
 ]

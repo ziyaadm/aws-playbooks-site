@@ -5,3 +5,7 @@
 .terraform/
 *.tfstate
 *.tfstate.backup
+
+# Playbook files (keep local only)
+infra/playbooks/
+*.pdf
